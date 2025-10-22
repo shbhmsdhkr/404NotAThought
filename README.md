@@ -1,8 +1,8 @@
-# 📰 Blog Application
+# 📰 404NotAThought
 
 ## 💬 Description
 
-A full-stack Blog Web Application that handles creation, modification, and management of blog posts with structured and chronological sorting
+A full-stack blog web application that handles creation, modification, and management of blog posts with structured and reverse chronological sorting
 
 ## 🚀 Features
 
