@@ -39,9 +39,6 @@ A full-stack blog web application that handles creation, modification, and manag
 
 ## ⚙️ Setup
 #### 1️⃣ Fork the repository
-`
-<repo-name-link>
-`
 
 #### 2️⃣ Clone the repository 
 `git clone https://github.com/<yourusername>/blog.git`
