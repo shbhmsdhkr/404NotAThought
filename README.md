@@ -53,14 +53,30 @@ cp env-example .env
 `
 
 #### 4️⃣ Setup Backend
-`npm install`
-`npm run start`
+```
+npm install
+```
+
+```
+npm run start
+```
+
 The backend runs at 👉 http://localhost:5000
 
 #### 5️⃣ Setup Frontend
-`cd ../frontend`
-`npm install`
-`npm run dev`
+
+```
+cd ../frontend
+```
+
+```
+npm install
+```
+
+```
+npm run dev
+```
+
 The frontend runs at 👉 http://localhost:5173
 
 ## 🧩 API Endpoints
